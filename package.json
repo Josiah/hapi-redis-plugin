@@ -1,0 +1,14 @@
+{
+  "name": "hapi-redis-plugin",
+  "description": "Redis client hapi plugin",
+  "version": "0.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/Josiah/hapi-redis-plugin",
+  "keywords": ["hapi", "redis", "plugin"],
+  "author": "Josiah <josiah@rapidapps.io>",
+  "bugs": "https://github.com/Josiah/hapi-redis-plugin/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:Josiah/hapi-redis-plugin.git"
+  }
+}
